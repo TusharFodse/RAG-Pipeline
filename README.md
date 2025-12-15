@@ -51,7 +51,8 @@ RAG-Pipeline/
 │   └── vector_store/
 │
 ├── Notebook/
-│   └── RAG.ipynb ->(RAG Main Content)
+│   └── RAG.ipynb 
+|
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
@@ -156,3 +157,4 @@ Aspiring AI / ML Engineer
 ## 📜 License
 
 MIT License
+
